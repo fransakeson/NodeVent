@@ -1,5 +1,5 @@
 # NodeVent
-Control ventilation using a NodeMCU
+Control ventilation using a NodeMCU/ESP8266
 
 Todo:
 - HW schema
